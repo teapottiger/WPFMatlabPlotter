@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>matlab_plot</name>
+    </assembly>
+    <members>
+        <member name="T:matlab_plot.MP">
+            <summary>
+            The MP class provides a CLS compliant, MWArray interface to the MATLAB functions
+            contained in the files:
+            <newpara></newpara>
+            C:\develop\MatlabPlots\matlab_plot.m
+            </summary>
+            <remarks>
+            @Version 4.0
+            </remarks>
+        </member>
+        <member name="M:matlab_plot.MP.#cctor">
+            <summary internal= "true">
+            The static constructor instantiates and initializes the MATLAB Runtime instance.
+            </summary>
+        </member>
+        <member name="M:matlab_plot.MP.#ctor">
+            <summary>
+            Constructs a new instance of the MP class.
+            </summary>
+        </member>
+        <member name="M:matlab_plot.MP.Finalize">
+            <summary internal= "true">
+            Class destructor called by the CLR garbage collector.
+            </summary>
+        </member>
+        <member name="M:matlab_plot.MP.Dispose">
+            <summary>
+            Frees the native resources associated with this object
+            </summary>
+        </member>
+        <member name="M:matlab_plot.MP.Dispose(System.Boolean)">
+            <summary internal= "true">
+            Internal dispose function
+            </summary>
+        </member>
+        <member name="M:matlab_plot.MP.matlab_plot">
+             <summary>
+             Provides a void output, 0-input MWArrayinterface to the matlab_plot MATLAB
+             function.
+             </summary>
+             <remarks>
+             M-Documentation:
+             Draw plot at WPF window
+             </remarks>
+            
+        </member>
+        <member name="M:matlab_plot.MP.matlab_plot(System.Int32)">
+             <summary>
+             Provides the standard 0-input MWArray interface to the matlab_plot MATLAB
+             function.
+             </summary>
+             <remarks>
+             M-Documentation:
+             Draw plot at WPF window
+             </remarks>
+             <param name="numArgsOut">The number of output arguments to return.</param>
+             <returns>An Array of length "numArgsOut" containing the output
+             arguments.</returns>
+            
+        </member>
+        <member name="M:matlab_plot.MP.WaitForFiguresToDie">
+             <summary>
+             This method will cause a MATLAB figure window to behave as a modal dialog box.
+             The method will not return until all the figure windows associated with this
+             component have been closed.
+             </summary>
+             <remarks>
+             An application should only call this method when required to keep the
+             MATLAB figure window from disappearing.  Other techniques, such as calling
+             Console.ReadLine() from the application should be considered where
+             possible.</remarks>
+            
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,6 @@
+C:\Users\dakozlov\Desktop\VseSamoeVazhnoe\lib\WPFMatlabPlotter\WPFMatlabPlotter\bin\Debug\WPFMatlabPlotter.dll
+C:\Users\dakozlov\Desktop\VseSamoeVazhnoe\lib\WPFMatlabPlotter\WPFMatlabPlotter\bin\Debug\WPFMatlabPlotter.pdb
+C:\Users\dakozlov\Desktop\VseSamoeVazhnoe\lib\WPFMatlabPlotter\WPFMatlabPlotter\obj\Debug\WPFMatlabPlotter.csprojAssemblyReference.cache
+C:\Users\dakozlov\Desktop\VseSamoeVazhnoe\lib\WPFMatlabPlotter\WPFMatlabPlotter\obj\Debug\WPFMatlabPlotter.csproj.CoreCompileInputs.cache
+C:\Users\dakozlov\Desktop\VseSamoeVazhnoe\lib\WPFMatlabPlotter\WPFMatlabPlotter\obj\Debug\WPFMatlabPlotter.dll
+C:\Users\dakozlov\Desktop\VseSamoeVazhnoe\lib\WPFMatlabPlotter\WPFMatlabPlotter\obj\Debug\WPFMatlabPlotter.pdb
