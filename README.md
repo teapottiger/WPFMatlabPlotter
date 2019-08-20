@@ -1,13 +1,16 @@
 # WPFMatlabPlotter
 ## What?
 ![WoW](https://github.com/teapottiger/WPFMatlabPlotter/blob/master/img_0.png)
+
 A lightweight library for embedding Matlab output window (graphs, plots) inside C# WPF x64 applications.
+
 | Features | Supported |
 |----------|------------ |
 | Windows | ✔ |
 | Single C# dll | ✔ |
 | Open Source | ✔ |
 | MIT license | ✔ |
+
 # How?
 ### 1. Make sure that you have installed a MATLAB Runtime
 Latest release can be found [here](https://www.mathworks.com/products/compiler/matlab-runtime.html).
