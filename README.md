@@ -33,6 +33,6 @@ Use the NuGet package manager to add a reference to [WPFMatlabPlotter](https://w
 ```
 
 # Examples
-You can find examples in the `/Examples` folder in the code repository.
+You can find examples (built for Matlab Runtime 9.2) in the `/Examples` folder in the code repository.
 # License
 MIT - do whatever you want.
