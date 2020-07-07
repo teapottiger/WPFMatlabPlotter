@@ -63,7 +63,7 @@ namespace WPFMatlabPlotter
         {
             var relativeCoordinates = GetRelativeCoordinates();
             MoveWindow(_foundWindow, Convert.ToInt32(relativeCoordinates.X), Convert.ToInt32(relativeCoordinates.Y),
-            Convert.ToInt32(this.Width), Convert.ToInt32(this.Height), true);
+            Convert.ToInt32(this.ActualWidth), Convert.ToInt32(this.ActualHeight), true);
         }
 
         private Point GetRelativeCoordinates()
